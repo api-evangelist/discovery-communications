@@ -1,7 +1,12 @@
 aid: discovery-communications
-url: https://raw.githubusercontent.com/api-evangelist/discovery-communications/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/discovery-communications/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.discovery-communications.com
+description: >-
+  Discovery Communications was a global media company providing original and purchased
+  programming across multiple distribution platforms before merging with WarnerMedia
+  to form Warner Bros. Discovery.
