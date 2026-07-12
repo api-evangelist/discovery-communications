@@ -15,6 +15,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/discovery-communications-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/discovery
   - type: LinkedIn
@@ -23,6 +25,8 @@ common:
     url: https://www.wbd.com
   - type: Website
     url: https://www.discovery-communications.com
+  - url: https://www.wbd.com/newsroom
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
