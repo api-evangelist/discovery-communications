@@ -1,7 +1,9 @@
 ---
 title: Discovery Makes $100 Million Investment in Digital Content ...
 url: https://www.eeworldonline.com/discovery-makes-100-million-investment-in-digital-content-company/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Discovery Communications" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Warner Bros. Discovery Announces Commencement of ...
 url: https://www.prnewswire.com/news-releases/warner-bros-discovery-announces-commencement-of-consent-solicitations-302776827.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Discovery Communications" press release artificial intelligence'
 position: 3
 source: serpapi-google

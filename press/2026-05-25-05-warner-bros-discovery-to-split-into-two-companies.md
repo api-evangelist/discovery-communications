@@ -1,7 +1,9 @@
 ---
 title: Warner Bros. Discovery to split into two companies ...
 url: https://apnews.com/article/warner-brothers-discovery-streaming-cable-cnn-tnt-1cdafec11e6cb542ca644e20dd29e826
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Discovery Communications" press release artificial intelligence'
 position: 5
 source: serpapi-google
